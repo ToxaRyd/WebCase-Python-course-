@@ -1,4 +1,4 @@
 # WebCase-Python-course-
 Studying
 
-Just homework form my cource of Django-Python 3
+Just homework from my cource of Django-Python 3
